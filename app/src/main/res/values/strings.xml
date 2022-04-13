@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Food_App</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="my_profile">My Profile</string>
+    <string name="faq">FAQ</string>
+    <string name="logout">Logout</string>
+    <string name="open_drawer">open_drawer</string>
+    <string name="close_drawer">close_drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_mobile_no">Enter Mobile No.</string>
+    <string name="register_preference_file">Register Page</string>
+    <string name="login_preference_file">Login Page</string>
+    <string name="add_to_cart_btn">ADD</string>
+    <string name="your_previous_orders_are_listed_below">your previous order are listed below</string>
+    <string name="no_orders_placed">No Orders Placed</string>
+    <string name="place_order">order placed</string>
+    <string name="ordering_from">ordering form</string>
+    <string name="token">12fed3f7359e20</string>
+    <string name="ip_address">13.235.250.119</string>
+</resources>
